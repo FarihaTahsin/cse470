@@ -1,0 +1,17 @@
+body
+{
+	margin: 100;
+	padding: 10;
+	background: url("../images/burgerr.jpg");
+    background-size: 1300px 700px;
+    background-repeat: no-repeat;
+	font-family: 'Roboto',sans-serif;
+	
+}
+
+table
+{
+    font-weight: bold;
+	color:#fff;
+
+}

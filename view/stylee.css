@@ -1,0 +1,74 @@
+body{
+	width: 1349px;
+	font-family: 'Robot', sans-serif;
+}
+.marg{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.nav{
+	padding-left:680px;
+	height: 40px;
+	background-color: #31535f;
+	border-bottom:5px solid rgba(255, 165,0,.9);
+	box-shadow: 0px 0px 30px orange;
+
+}
+.nav ul{
+	width: 100% ;
+	margin: 0 auto;
+	padding: 0px;
+}
+.nav ul li{
+	font-size: 10px;
+	padding: 10px 25px 0px 20px;
+	display: inline-block;
+}
+.nav ul li a{
+	padding: 6px;
+	color: white;
+	text-decoration: none;
+
+}
+
+.nav ul li a: hover{
+	border-radius: 1px;
+	color: yellow;
+	background-color: white;
+	transition: 2s;
+
+}
+.firstbg{
+	
+	background-image: url("../images/patty.jpg");
+	background-size: cover ;
+	background-repeat: no-repeat;
+}
+.firstbg h1{
+	padding-left: 450px;
+	padding-top: 350px;
+	color: white;
+	font-size: 60px;
+	opacity: 0.7;
+}
+.firstbg p{
+	padding-left: 340px;
+	margin-top: -30px;
+	font-size: 30px;
+	opacity: 0.7;
+	color: orange;
+}
+
+.firstbg h1:hover, p:hover{
+	cursor:pointer;
+}
+
+
+
+
+
+
+
+
+
